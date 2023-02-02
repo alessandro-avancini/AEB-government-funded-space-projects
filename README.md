@@ -1,4 +1,4 @@
-# Where is the Space Sector in Brazil?
+# FAPESP and Space: Exploring government technology funding
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
